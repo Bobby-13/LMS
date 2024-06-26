@@ -1,0 +1,7 @@
+setup.py
+math_functions/__init__.py
+math_functions/math_operations.py
+math_functions.egg-info/PKG-INFO
+math_functions.egg-info/SOURCES.txt
+math_functions.egg-info/dependency_links.txt
+math_functions.egg-info/top_level.txt
