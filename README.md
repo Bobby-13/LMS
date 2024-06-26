@@ -1,10 +1,15 @@
 
 **Structure** 
-      my_local_package/
+      my_local_package/ 
+      
       ├── setup.py
+      
       └── mypackage/
+      
           ├── __init__.py
+          
           └── mymodule.py
+          
 
 
 **command to create Distributable file**
